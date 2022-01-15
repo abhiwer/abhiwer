@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AWS, and some coding skills
 - 💬 Ask me about cloud {GCP, Azure}, Computer Vision & ML/DL.
 - 📫 How to reach me: https://www.linkedin.com/in/abhinavpriyadarshi/
-- ⚡ Fun fact: I can code in more langauges than I can speak :)
+- ⚡ Fun fact: I can code in more langauges than I can speak :) 
 
