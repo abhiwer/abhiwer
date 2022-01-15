@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **abhiwer/abhiwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about cloud {GCP, Azure}, Computer Vision & ML/DL.
 - 📫 How to reach me: https://www.linkedin.com/in/abhinavpriyadarshi/
 - ⚡ Fun fact: I can code in more langauges than I can speak :)
--->
+
