@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learning website with features like face detection, crypto market visyualization and many more things.
+- 🔭 I’m currently working on Machine Learning website with features like face detection, crypto market visualization and many more things.
 - 🌱 I’m currently learning AWS, and some coding skills
 - 💬 Ask me about cloud {GCP, Azure}, Computer Vision & ML/DL.
 - 📫 How to reach me: https://www.linkedin.com/in/abhinavpriyadarshi/
